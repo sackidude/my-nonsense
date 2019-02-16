@@ -1,2 +1,2 @@
-# my-nonsense
-This is just a repository for all my nonsense
+# my-website-thing
+This is just a repository for my website.
