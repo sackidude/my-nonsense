@@ -29,6 +29,10 @@ a:visited{
     color: #bbff00;
 }
 
+a:hover{
+    background-color: #494949;
+}
+
 h1{
     color: white;
     padding-left: .4em;

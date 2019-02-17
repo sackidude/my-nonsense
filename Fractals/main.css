@@ -25,6 +25,10 @@ a{
     padding: .5em;
 }
 
+a:hover{
+  background-color: #494949;
+}
+
 a:visited{
     color: #bbff00;
 }
